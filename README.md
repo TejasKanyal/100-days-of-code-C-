@@ -1,6 +1,5 @@
-                                                                                     100 Days of Code: C Programming
-
-
+"                                                                                  100 Days of Code: C Programming                                                                                                 "
+            
 1) Overview -:
 
 This repository contains my journey of 100 Days of Code in C programming.
@@ -33,7 +32,7 @@ ii) Languages & Tools -:
     
 iii) How to Use This Repo -:
 
-  * Clone the repository:
+  * Clone the repository:   https://github.com/TejasKanyal/100-days-of-code-C-.git
     
   * navigate to the folder for a specific day
   
